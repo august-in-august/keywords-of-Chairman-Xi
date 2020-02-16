@@ -2,7 +2,7 @@
 
 ## R로 중국 국가 주석과 총리 연설문 키워드 분석
 
-2017년과 2018년 4월까지 중국 국가 주석 [7편 연설문과](http://www.xinhuanet.com/politics/leaders/xijinping/index.htm) 국무원 총리 [12편 보도](http://www.gov.cn/premier/lkq_jh.htm)를 텍스트 파일로 저정한 다음에 R로 제일 많이 나온 단어들이 뽑아내다.
+2017년과 2018년 4월까지 중국 국가 주석 [7편 연설문](http://www.xinhuanet.com/politics/leaders/xijinping/index.htm)과 국무원 총리 [12편 보도](http://www.gov.cn/premier/lkq_jh.htm)를 텍스트 파일로 저정한 다음에 R로 제일 많이 나온 단어들이 뽑아내다.
 
 ## 결론:
 
